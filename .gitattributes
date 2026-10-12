@@ -1,0 +1,5 @@
+* text=auto
+*.xzp binary
+*.png binary
+*.jpg binary
+*.cfljson -text
